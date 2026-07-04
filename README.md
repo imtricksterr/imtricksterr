@@ -15,12 +15,8 @@ I am a Computer Science student at UConn with interests in systems, cloud, and s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Distribution
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imtricksterr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtricksterr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtricksterr&theme=tokyonight&hide_border=true" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtricksterr&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
