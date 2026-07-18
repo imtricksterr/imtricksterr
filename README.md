@@ -4,6 +4,8 @@ I am a Computer Science student at UConn with interests in systems, cloud, and s
 
 ## 🚧 What I'm Working On
 
+- **[Formulated](https://github.com/imtricksterr/Formulated)** — an F1 race outcome predictor built with React + TypeScript, Python (pandas/scikit-learn), and PostgreSQL.
+
 - **[Ratio](https://github.com/imtricksterr/Stoichiometry-Calculator)** — a React + TypeScript + Vite stoichiometry calculator and chemistry study tool.
 
 ---
