@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Connecticut (Class of 2028) 
 
 ---
 
-## 🚧 What I'm Working On
+## What I'm Working On
 
 - **[Formulated](https://github.com/imtricksterr/Formulated)** — an F1 race outcome predictor built with Python (pandas/scikit-learn), and PostgreSQL.
 
