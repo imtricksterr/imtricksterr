@@ -1,6 +1,6 @@
 # Hi, I'm Jay 👋
 
-I'm a Computer Science student at the University of Connecticut (Class of 2028) with a passion for **software development, systems, and cloud computing**. I enjoy building solutions that solve real-world problems, efficient programming, and learning new technologies.
+I'm a Computer Science student at the University of Connecticut (Class of 2028) with a passion for **software development, systems, machine learning, and cloud computing**. I enjoy building solutions that solve real-world problems, efficient programming, and learning new technologies.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a Computer Science student at the University of Connecticut (Class of 2028) 
 
 **Languages:** Python, C/C++, SQL, Java, JavaScript, TypeScript, HTML, CSS, PowerShell
 **Frameworks & Libraries:** React, Tailwind, Flask, Pandas, NumPy  
-**Tools & Platforms:** AWS, GitHub, Docker, Unix/Linux, Microsoft Active Directory
+**Tools & Platforms:** AWS, GitHub, Unix/Linux, Microsoft Active Directory
 
 ---
 
@@ -43,4 +43,4 @@ Relevant Coursework: Software Engineering, Data Structures and Algorithms, Syste
 ## 📫 Contact
 
 - Email: jaybell122027@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/jalen-bell-a0b82010b/](https://linkedin.com/in/jalenbell)
+- LinkedIn: [[https://www.linkedin.com/in/jalen-bell-a0b82010b](https://www.linkedin.com/in/jalen-bell-a0b82010b/)/](https://linkedin.com/in/jalenbell)
