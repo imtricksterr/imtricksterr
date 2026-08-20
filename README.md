@@ -43,4 +43,4 @@ Relevant Coursework: Software Engineering, Data Structures and Algorithms, Syste
 ## 📫 Contact
 
 - Email: jaybell122027@gmail.com
-- LinkedIn: [[https://www.linkedin.com/in/jalen-bell-a0b82010b](https://www.linkedin.com/in/jalen-bell-a0b82010b/)/](https://linkedin.com/in/jalenbell)
+- LinkedIn: **[linkedin.com/jalenbell](https://www.linkedin.com/in/jalen-bell-a0b82010b/)**
