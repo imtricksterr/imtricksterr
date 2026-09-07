@@ -10,6 +10,8 @@ I'm a Computer Science student at the University of Connecticut (Class of 2028) 
 
 - **[Ratio](https://github.com/imtricksterr/Stoichiometry-Calculator)** — a React + TypeScript + Vite stoichiometry calculator and chemistry study tool.
 
+- **[Issue Tracker](https://github.com/imtricksterr/Issue-Tracker)** - a basic state change machine made using Django.
+
 ---
 
 ## 💻 Skills
