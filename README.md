@@ -27,9 +27,6 @@ I'm a Computer Science student at the University of Connecticut (Class of 2028) 
 **Werth Institute for Entrepreneurship and Innovation | Storrs, CT**  
 Web Developer Intern (Aug. 2026 - Present)
 
-**Mohegan Sun | Uncasville, CT**
-Marketing Operations Representative (Jul. 2023 – Present)
-
 ---
 
 ## 🎓 Education
